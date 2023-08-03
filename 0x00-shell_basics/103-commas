@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan --format=comma
+ls -lan --format=comma -p
