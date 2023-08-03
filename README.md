@@ -1,1 +1,1 @@
-empty readme
+My shell readme
