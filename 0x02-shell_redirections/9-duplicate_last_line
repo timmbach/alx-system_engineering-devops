@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tail -n 1 iacta >> iacta
+eco tail -n 1 iacta >> iacta
