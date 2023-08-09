@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%" $(($WATER + $STIR))
+printf "%d\n" "$((($water#$WATER) + ($stir#$STIR)))" | tr "[0123456789]" "[bestchol]" 
