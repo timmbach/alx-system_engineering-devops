@@ -1,2 +1,2 @@
 #!/bin/bash
-xxport PATH="$PATH:/action"
+export PATH="$PATH:/action"
